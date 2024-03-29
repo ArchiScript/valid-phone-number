@@ -1,0 +1,12 @@
+{
+    "name": "hitech/phone-validator",
+    "description": "Checks the input number and parses it according to international numbers",
+    "authors": [
+        {
+            "name": "Arthur Skomarohov"
+        }
+    ],
+    "require": {
+        "giggsey/libphonenumber-for-php": "^8.13"
+    }
+}
